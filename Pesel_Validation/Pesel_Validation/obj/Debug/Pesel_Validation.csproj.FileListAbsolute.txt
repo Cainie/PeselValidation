@@ -1,0 +1,7 @@
+C:\Users\Karol\Source\Repos\PeselValidation\Pesel_Validation\Pesel_Validation\bin\Debug\Pesel_Validation.exe.config
+C:\Users\Karol\Source\Repos\PeselValidation\Pesel_Validation\Pesel_Validation\bin\Debug\Pesel_Validation.exe
+C:\Users\Karol\Source\Repos\PeselValidation\Pesel_Validation\Pesel_Validation\bin\Debug\Pesel_Validation.pdb
+C:\Users\Karol\Source\Repos\PeselValidation\Pesel_Validation\Pesel_Validation\obj\Debug\Pesel_Validation.csprojResolveAssemblyReference.cache
+C:\Users\Karol\Source\Repos\PeselValidation\Pesel_Validation\Pesel_Validation\obj\Debug\Pesel_Validation.csproj.CoreCompileInputs.cache
+C:\Users\Karol\Source\Repos\PeselValidation\Pesel_Validation\Pesel_Validation\obj\Debug\Pesel_Validation.exe
+C:\Users\Karol\Source\Repos\PeselValidation\Pesel_Validation\Pesel_Validation\obj\Debug\Pesel_Validation.pdb

@@ -9,6 +9,7 @@ namespace Pesel_Validation {
         static void Main(string[] args)
         {
             // Making a list
+            Console.WriteLine("edycja");
             
             List<DataForValidation> peselList = new List<DataForValidation>();
 
